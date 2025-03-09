@@ -1,0 +1,66 @@
+header {
+    text-align: center;
+}
+
+h2 {
+    margin-top: 10vh;
+}
+
+img {
+    border-radius: 10px;
+    border: 5px black solid;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+a:hover {
+    color: dodgerblue;
+}
+
+.phs_formula {
+    width: 50vw;
+    height: 30vh;
+}
+
+.electromotive_table {
+    width: 50vw;
+    height: 80vh;
+}
+
+figure {
+    display: flex;
+    flex-direction: column;
+}
+
+.lfc_proto {
+    width: 50vw;
+    height: 90vh;
+}
+
+.mfc_model {
+    width: 50vw;
+    height: 55vh;
+}
+
+.lenz_vawt_model {
+    width: 50vw;
+    height: 55vh;
+}
+
+.optimum_chord_length_formula {
+    width: 50vw;
+    height: 30vh;
+}
+
+.blade_classification {
+    width: 50vw;
+    height: 55vh;
+}
+
+.ideal_chord_length {
+    width: 50vw;
+    height: 55vh;
+}
