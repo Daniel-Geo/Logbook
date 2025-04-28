@@ -66,16 +66,21 @@ figure {
 }
 
 .equation {
-    width: 46vw;
+    width: 45vw;
     height: 10vh;
 }
 
 .derivative {
-    width: 48vw;
+    width: 47.5vw;
     height: 90vh;
 }
 
 .turbine {
+    width: 50vw;
+    height:55vh;
+}
+
+.circuit {
     width: 50vw;
     height:55vh;
 }
